@@ -1,2 +1,2 @@
 # Software-Projects
-A repository to save all of my works
+This is a calculator in which you insert your weight and your height, then it gives you your BMI Score which stands for body mass index.
